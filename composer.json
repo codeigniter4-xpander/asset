@@ -1,0 +1,23 @@
+{
+    "name": "codeigniter4-xpander/asset",
+    "description": "CodeIgniter 4 Xpander Asset",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bagus A Priambada",
+            "email": "iam.adty@gmail.com"
+        }
+    ],
+    "require": {
+        "codeigniter4-xpander/core": "dev-develop",
+        "foxy/foxy": "^1.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "CI4Xpander_Asset\\": "src/"
+        }
+    }
+}
