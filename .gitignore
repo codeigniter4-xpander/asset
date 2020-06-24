@@ -1,2 +1,5 @@
-/vendor/
+vendor/
 composer.lock
+node_modules/
+package-lock.json
+yarn.lock
