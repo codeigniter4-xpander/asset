@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "codeigniter4-xpander/core": "dev-develop",
-        "foxy/foxy": "^1.1"
+        "codeigniter4-xpander/core": "dev-develop"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
